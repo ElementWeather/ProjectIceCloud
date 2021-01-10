@@ -1,1 +1,1 @@
-30/12/2020 - Initial version for early access
+Version: 0.5.1 (Blueberry): National Rail station alerts, UI tweaks and bug fixes

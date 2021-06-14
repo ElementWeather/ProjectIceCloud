@@ -1,1 +1,1 @@
-
+TRACK version 0.5.2 will go live 2021-06-15. It is HIGHLY RECOMMENDED that you reinstall the application with the new update, rather than updating directly.

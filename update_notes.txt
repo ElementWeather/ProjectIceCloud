@@ -1,8 +1,7 @@
-Version: 0.5.1.5:
+Version: 0.5.2 (Clementine):
 
-- Added CRS codes to the selected stations in the Search page
-- Improved performance when searching for stations
-- Redesign Settings page to separate items and support upcoming features
-- View version release notes and new app Trello page through the new About page in Settings
-- Fixed issues when trying to view a pinned service and when submitting feedback via email
-- Several other bug and UI fixes
+- App-wide performance improvements which reduces start-up time by up to 52%
+- Enhanced the reliability of saving user content (e.g. pinned stations)
+- Improved the layout of pinned stations on the home page
+- Native tap effects to various elements for better interaction confirmation 
+- Additional UI tweaks and bug fixes

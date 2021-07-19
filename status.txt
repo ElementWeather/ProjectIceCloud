@@ -1,1 +1,1 @@
-TRACK version 0.5.2 is now live. It is HIGHLY RECOMMENDED that you reinstall the application with the new update, rather than updating directly.
+This version of TRACK will no longer be supported after July 31, 2021. Please update to version 0.5.3 or newer to continue using all functionality.

@@ -1,7 +1,8 @@
-Version: 0.5.2 (Clementine):
+Version: 0.5.3 (Dragon Fruit):
 
-- App-wide performance improvements which reduces start-up time by up to 52%
-- Enhanced the reliability of saving user content (e.g. pinned stations)
-- Improved the layout of pinned stations on the home page
-- Native tap effects to various elements for better interaction confirmation 
-- Additional UI tweaks and bug fixes
+- Introduced an 'Arrived' status for pinned services, calling points and searched services
+- Searches now show recently departed services and denotes how late they were departing
+- Added Manage Stations page in Settings to add, edit and delete your saved stations
+- Added additional user customisable setting to the Preferences page
+- Switched to new back-end infrastructure
+- UI tweaks and bug fixes

@@ -1,8 +1,3 @@
-Version: 0.5.3 (Dragon Fruit):
+Version: 0.5.3.1 (Dragon Fruit):
 
-- Introduced an 'Arrived' status for pinned services, calling points and searched services
-- Searches now show recently departed services and denotes how late they were departing
-- Added Manage Stations page in Settings to add, edit and delete your saved stations
-- Added additional user customisable setting to the Preferences page
-- Switched to new back-end infrastructure
-- UI tweaks and bug fixes
+- Added Privacy and Terms & Conditions information to Login and Settings/About pages

@@ -1,3 +1,6 @@
-Version: 0.5.3.1 (Dragon Fruit):
+Version: 0.6.0 (Elderberry):
 
-- Added Privacy and Terms & Conditions information to Login and Settings/About pages
+- Redesigned service page
+- New recent search design
+- Added time offset searching
+- Introduced the one-tap journey search button to the home page

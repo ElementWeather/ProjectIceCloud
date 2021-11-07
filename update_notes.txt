@@ -1,6 +1,7 @@
-Version: 0.6.0 (Elderberry):
+Version: 0.6.0.1 (Elderberry):
 
-- Redesigned service page
-- New recent search design
-- Added time offset searching
-- Introduced the one-tap journey search button to the home page
+- Fixed Home page clock seconds appearing across two rows
+- Fixed app crash when searching for stations on Android 9 or lower devices
+- Fixed issue where the H2W/W2H button text would appear across two rows
+- Removed NoConnection banners from Home and Search pages
+- Other fixes

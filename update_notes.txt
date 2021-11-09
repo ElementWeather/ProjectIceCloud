@@ -1,3 +1,7 @@
+Version: 0.6.0.2 (Elderberry):
+
+- Fixed an issue where the 'Cancel' and 'OK' buttons were invisible when setting a time in Settings
+
 Version: 0.6.0.1 (Elderberry):
 
 - Fixed Home page clock seconds appearing across two rows

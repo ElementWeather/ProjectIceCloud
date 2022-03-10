@@ -1,11 +1,9 @@
-Version: 0.6.0.2 (Elderberry):
+Version: 0.6.1 (Fig) [2022-03-09]:
 
-- Fixed an issue where the 'Cancel' and 'OK' buttons were invisible when setting a time in Settings
-
-Version: 0.6.0.1 (Elderberry):
-
-- Fixed Home page clock seconds appearing across two rows
-- Fixed app crash when searching for stations on Android 9 or lower devices
-- Fixed issue where the H2W/W2H button text would appear across two rows
-- Removed NoConnection banners from Home and Search pages
-- Other fixes
+- Added platform info to calling points, providing they aren't classified as hidden
+- Ability to show additional locations (timing points and passing stations) for a service
+- Increased limit for searching for services to 24 hours into the future
+- Departed and Arrived ‘pills’ in the Service page, along with several small UI updates in the page
+- Support for the new material time picker
+- Design updates to the Manage Stations page
+- Various bug fixes and crash-prevention changes

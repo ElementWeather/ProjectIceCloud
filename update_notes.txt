@@ -1,9 +1,6 @@
-Version: 0.6.1 (Fig) [2022-03-09]:
+Version: 0.6.1.5 (Fig) [2022-04-18]:
 
-- Added platform info to calling points, providing they aren't classified as hidden
-- Ability to show additional locations (timing points and passing stations) for a service
-- Increased limit for searching for services to 24 hours into the future
-- Departed and Arrived ‘pills’ in the Service page, along with several small UI updates in the page
-- Support for the new material time picker
-- Design updates to the Manage Stations page
-- Various bug fixes and crash-prevention changes
+- Improved login experience using Google's One Tap sign in
+- In-app update support
+- Notification support for national service disruption/server issues
+- Various bug fixes 

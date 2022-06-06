@@ -1,6 +1,2 @@
-Version: 0.6.1.5 (Fig) [2022-04-18]:
-
-- Improved login experience using Google's One Tap sign in
-- In-app update support
-- Notification support for national service disruption/server issues
-- Various bug fixes 
+Version: 0.6.1.6 (Fig) [2022-06-04]:
+- Fixed an issue where train stations would fail to download
